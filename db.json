@@ -1,31 +1,37 @@
 {
   "trades": [
   {
+    "id": "TNC91029",
     "etrmId": "TNC91029",
     "counterParty": "Gunvor",
     "product": "Oil 90"
   },
   {
+    "id": "TNC91229",
     "etrmId": "TNC91229",
     "counterParty": "Shell",
     "product": "Oil 90"
   },
   {
+    "id": "TNC11229",
     "etrmId": "TNC11229",
     "counterParty": "Gunvor",
     "product": "Oil 90"
   },
   {
+    "id": "TNC64429",
     "etrmId": "TNC64429",
     "counterParty": "Shell",
     "product": "Oil 90"
   },
   {
+    "id": "TNC33029",
     "etrmId": "TNC33029",
     "counterParty": "Gunvor",
     "product": "Oil 80"
   },
   {
+    "id": "TNC12029",
     "etrmId": "TNC12029",
     "counterParty": "P66",
     "product": "Oil 90"
