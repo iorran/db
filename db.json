@@ -1,4 +1,5 @@
-[
+{
+  "trades": [
   {
     "etrmId": "TNC91029",
     "counterParty": "Gunvor",
@@ -30,3 +31,4 @@
     "product": "Oil 90"
   }
 ]
+}
