@@ -1,0 +1,32 @@
+[
+  {
+    "etrmId": "TNC91029",
+    "counterParty": "Gunvor",
+    "product": "Oil 90"
+  },
+  {
+    "etrmId": "TNC91229",
+    "counterParty": "Shell",
+    "product": "Oil 90"
+  },
+  {
+    "etrmId": "TNC11229",
+    "counterParty": "Gunvor",
+    "product": "Oil 90"
+  },
+  {
+    "etrmId": "TNC64429",
+    "counterParty": "Shell",
+    "product": "Oil 90"
+  },
+  {
+    "etrmId": "TNC33029",
+    "counterParty": "Gunvor",
+    "product": "Oil 80"
+  },
+  {
+    "etrmId": "TNC12029",
+    "counterParty": "P66",
+    "product": "Oil 90"
+  }
+]
